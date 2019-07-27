@@ -1,6 +1,6 @@
 galaxy_info:
   author: Emerson Rocha
-  description: Tsuru PaaS usando docker (sem Kubernetes) com auto-SSL feita por OpenResty + Lua-Resty-autossl
+  description: "Ansible Role que usa o OpenResty (fork do NGinx) + GUI/lua-resty-auto-ssl para fornecer HTTPS automática e gratúita do Let’s Encrypt"
   company: Etica.AI
 
   license: Unlicense
